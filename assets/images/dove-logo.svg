@@ -1,0 +1,36 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dove outline matching reference -->
+  <!-- Top outline: head, back, tail -->
+  <path d="M 4 14 Q 3 12 5 11 Q 7 10 9 11 Q 12 9 16 9 Q 20 9 24 11 Q 27 12 28 14"
+        stroke="#4A5568"
+        stroke-width="2.2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"/>
+
+  <!-- Wing swooping down -->
+  <path d="M 16 9 Q 13 14 10 22 Q 9 25 10 27"
+        stroke="#4A5568"
+        stroke-width="2.2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"/>
+
+  <!-- Wing sweeping back up -->
+  <path d="M 10 27 Q 15 25 20 23 Q 24 21 28 20"
+        stroke="#4A5568"
+        stroke-width="2.2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"/>
+
+  <!-- Beak -->
+  <path d="M 4 14 Q 2 14 2 13"
+        stroke="#4A5568"
+        stroke-width="2.2"
+        stroke-linecap="round"
+        fill="none"/>
+
+  <!-- Eye -->
+  <circle cx="6" cy="12.5" r="1" fill="#4A5568"/>
+</svg>
